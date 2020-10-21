@@ -30,6 +30,8 @@
     <owl:sameAs rdf:resource="http://plus.google.com/+SeanPetiya"></owl:sameAs>
     <owl:sameAs rdf:resource="http://researcherid.com/rid/J-6069-2014"></owl:sameAs>
     <owl:sameAs rdf:resource="http://sean.petiya.com/#me"></owl:sameAs>
+    <owl:sameAs rdf:resource="http://personal.kent.edu/~spetiya1/#me"></owl:sameAs>
+
 
   </foaf:Person>
 </rdf:RDF>
