@@ -11,7 +11,7 @@
 
   <foaf:PersonalProfileDocument rdf:about="http://sapetiya.people.ysu.edu/foaf.rdf">
     <dc:title>Sean Petiya (YSU)</dc:title>
-    <dcterms:modified>2020-10-20</dcterms:modified>
+    <dcterms:modified>2021-12-08</dcterms:modified>
     <foaf:primaryTopic rdf:resource="http://sapetiya.people.ysu.edu/#me"/>
     <rdfs:seeAlso rdf:resource="http://sean.petiya.tel"></rdfs:seeAlso>
   </foaf:PersonalProfileDocument>
@@ -31,6 +31,8 @@
     <owl:sameAs rdf:resource="http://researcherid.com/rid/J-6069-2014"></owl:sameAs>
     <owl:sameAs rdf:resource="http://sean.petiya.com/#me"></owl:sameAs>
     <owl:sameAs rdf:resource="http://personal.kent.edu/~spetiya1/#me"></owl:sameAs>
+    <owl:sameAs rdf:resource="https://www.personal.kent.edu/~spetiya1/#me"></owl:sameAs>
+
 
 
   </foaf:Person>
