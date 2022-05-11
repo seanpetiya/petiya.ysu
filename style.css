@@ -39,10 +39,9 @@ nav.base-nav ul li a:hover {
 
 /*begin:sub*/
 nav.sub-nav {
-    background-color: #a4192f;
-    padding: 3px 6px;
     font-size: 1em;
     border-bottom:3px solid #690717;
+    background-color: #a4192f;
 }
 
 nav.sub-nav a.navbar-brand {
