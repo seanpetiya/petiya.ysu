@@ -11,9 +11,9 @@
 
   <foaf:PersonalProfileDocument rdf:about="https://sapetiya.people.ysu.edu/foaf.rdf">
     <dc:title>Sean Petiya (YSU)</dc:title>
-    <dcterms:modified>2022-05-10</dcterms:modified>
+    <dcterms:modified>2024-05-29</dcterms:modified>
     <foaf:primaryTopic rdf:resource="https://sapetiya.people.ysu.edu/#me"/>
-    <rdfs:seeAlso rdf:resource="http://sean.petiya.tel"></rdfs:seeAlso>
+    <rdfs:seeAlso rdf:resource="http://petiya.tel"></rdfs:seeAlso>
   </foaf:PersonalProfileDocument>
 
   <foaf:Person rdf:about="https://sapetiya.people.ysu.edu/#me">
@@ -26,11 +26,11 @@
     <!-- SAMEAS -->
 
     <owl:sameAs rdf:resource="http://dblp.uni-trier.de/pers/p/Petiya:Sean"></owl:sameAs>
-    <owl:sameAs rdf:resource="http://orcid.org/0000-0001-5704-1346"></owl:sameAs>
+    <owl:sameAs rdf:resource="https://orcid.org/0000-0001-5704-1346"></owl:sameAs>
     <owl:sameAs rdf:resource="http://researcherid.com/rid/J-6069-2014"></owl:sameAs>
     <owl:sameAs rdf:resource="https://sean.petiya.com/#me"></owl:sameAs>
     <owl:sameAs rdf:resource="https://www.personal.kent.edu/~spetiya1/#me"></owl:sameAs>
     <owl:sameAs rdf:resource="https://www.wikidata.org/wiki/Q59686738"></owl:sameAs>
-    
+
   </foaf:Person>
 </rdf:RDF>
